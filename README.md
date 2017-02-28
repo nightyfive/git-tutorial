@@ -2,3 +2,4 @@
 
 	add feature-a
 	add fix-b
+	add feature-c
